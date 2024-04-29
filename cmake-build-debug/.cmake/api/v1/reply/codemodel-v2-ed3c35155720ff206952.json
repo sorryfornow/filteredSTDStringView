@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "COMP6771_ASS2",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "catch2_main::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-catch2_main-Debug-0ee051bf058f7133504a.json",
+					"name" : "catch2_main",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "filtered_string_view::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-filtered_string_view-Debug-4c6ce744e6ad067f50ee.json",
+					"name" : "filtered_string_view",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "filtered_string_view_test_exe::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-filtered_string_view_test_exe-Debug-f1e6291477eb514b58fa.json",
+					"name" : "filtered_string_view_test_exe",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/siqingzhang/Desktop/CppProgram/contents/projects/filteredSTDStringView/cmake-build-debug",
+		"source" : "/Users/siqingzhang/Desktop/CppProgram/contents/projects/filteredSTDStringView"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

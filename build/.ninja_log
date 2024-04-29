@@ -1,0 +1,15 @@
+# ninja log v5
+2	514	1679971417849967165	CMakeFiles/filtered_string_view.dir/src/filtered_string_view.cpp.o	36e9ed83d0ac81c7
+514	541	1679971417879977000	libfiltered_string_view.a	2324a2336bcc36b2
+3	1081	1679991897528053763	CMakeFiles/filtered_string_view_test_exe.dir/src/filtered_string_view.test.cpp.o	75ba1e4e94720c7a
+1082	1163	1679991897614753157	filtered_string_view_test_exe	f67dd0d3ece55bd0
+0	2551	1679970814713686811	CMakeFiles/catch2_main.dir/lib/catch2_main.cpp.o	99fb3ce4b2ad61cb
+2551	2600	1679970814771601000	libcatch2_main.a	2187f744f0a486da
+3	876	1680000172114469928	CMakeFiles/filtered_string_view_test_exe.dir/src/filtered_string_view.test.cpp.o	75ba1e4e94720c7a
+2	378	1680000339322136567	CMakeFiles/filtered_string_view.dir/src/filtered_string_view.cpp.o	36e9ed83d0ac81c7
+378	404	1680000339351097000	libfiltered_string_view.a	2324a2336bcc36b2
+404	478	1680000339424220519	filtered_string_view_test_exe	f67dd0d3ece55bd0
+2	410	1680000463133770653	CMakeFiles/filtered_string_view.dir/src/filtered_string_view.cpp.o	36e9ed83d0ac81c7
+410	435	1680000463163503000	libfiltered_string_view.a	2324a2336bcc36b2
+2	949	1680000463672164303	CMakeFiles/filtered_string_view_test_exe.dir/src/filtered_string_view.test.cpp.o	75ba1e4e94720c7a
+949	1023	1680000463750258403	filtered_string_view_test_exe	f67dd0d3ece55bd0

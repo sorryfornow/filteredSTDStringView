@@ -1,0 +1,6 @@
+/Users/siqingzhang/Desktop/CppProgram/contents/projects/filteredSTDStringView/cmake-build-debug/CMakeFiles/catch2_main.dir
+/Users/siqingzhang/Desktop/CppProgram/contents/projects/filteredSTDStringView/cmake-build-debug/CMakeFiles/filtered_string_view.dir
+/Users/siqingzhang/Desktop/CppProgram/contents/projects/filteredSTDStringView/cmake-build-debug/CMakeFiles/filtered_string_view_test_exe.dir
+/Users/siqingzhang/Desktop/CppProgram/contents/projects/filteredSTDStringView/cmake-build-debug/CMakeFiles/test.dir
+/Users/siqingzhang/Desktop/CppProgram/contents/projects/filteredSTDStringView/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/siqingzhang/Desktop/CppProgram/contents/projects/filteredSTDStringView/cmake-build-debug/CMakeFiles/rebuild_cache.dir
